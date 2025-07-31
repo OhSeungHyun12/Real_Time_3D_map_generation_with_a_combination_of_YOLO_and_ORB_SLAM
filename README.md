@@ -143,7 +143,7 @@ cd ~/YOLO_ORB_SLAM3
 git clone https://github.com/UZ-SLAMLab/ORB_SLAM3.git ORB_SLAM3
 cd ORB_SLAM3
 ```
-Replace with modified file that overwrites specific files inside ORB SlAM
+Replace with ORB_SLAM3_Modified_File that overwrites specific files inside ORB SlAM
 
 #### Intel RealSense Camera
 Since librealsense only supports up to Ubuntu 22, you need to build and install the official source code directly.
