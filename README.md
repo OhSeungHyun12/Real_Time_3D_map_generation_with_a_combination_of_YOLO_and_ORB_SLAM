@@ -197,7 +197,7 @@ chmod +x build.sh
 
 > **Running ORB-SLAM3**
 ```
-./cam/mono_realsense_D455 Vocabulary/ORBvoc.txt ./cam/mono_RealSense_D455.yaml
+./Examples/YOLO_ORB/webcam Vocabulary/ORBvoc.txt ./Examples/YOLO_ORB/webcam.yaml
 ```
 
 
